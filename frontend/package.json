@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@stacks/connect": "^7.7.1",
+    "@stacks/network": "^6.16.0",
+    "@stacks/transactions": "^6.16.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
@@ -27,5 +30,9 @@
     "postcss": "^8.4.45",
     "tailwindcss": "^3.4.11",
     "vite": "^5.4.1"
+  },
+  "resolutions": {
+    "@stacks/network": "^6.16.0",
+    "@stacks/transactions": "^6.16.1"
   }
 }

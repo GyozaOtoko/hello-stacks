@@ -1,5 +1,7 @@
+For the complete tutorial follow the Stacks docs https://docs.stacks.co/guides-and-tutorials/hello-stacks-quickstart-tutorial
+
 # hello-stacks
- 
+
 1. install yarn
 2. create project template
    - ```yarn create vite frontend --template react```
