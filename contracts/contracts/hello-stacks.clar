@@ -1,4 +1,3 @@
-
 ;; title: hello-stacks
 ;; version: 0.1
 ;; summary: my first contract
